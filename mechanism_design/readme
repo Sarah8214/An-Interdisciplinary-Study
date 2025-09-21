@@ -1,0 +1,15 @@
+Mechanism Design Supporting Materials
+
+This folder contains all supporting materials related to Problem Set 2: Mechanism Design. It includes calculations, diagrams, simulations, and references that complement the main PDF submission.
+
+Contents:
+
+Calculations: Step-by-step numeric and formula-based work used to support the design of mechanisms and verify theoretical properties.
+
+Diagrams: Visual representations of mechanisms, showing allocation rules, payment structures, and incentive flows.
+
+Simulations: Code or spreadsheet files used to simulate mechanism outcomes and test robustness (if applicable).
+
+References: Academic papers, textbooks, or other sources cited to provide theoretical background and methodology.
+
+All materials are organized to facilitate reproducibility and verification of results. Any additional files should follow the same structure for clarity.
