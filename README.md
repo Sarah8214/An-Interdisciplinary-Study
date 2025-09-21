@@ -1,25 +1,34 @@
-# An-Interdisciplinary-Study
-Chenlei Tao problemset01
-# Claim Game: An Interdisciplinary Study
-
-## Abstract
-This project investigates the **Claim Game**, where two players simultaneously demand portions of 100 points. If the total demand is ≤ 100, both receive their claims; otherwise, both get zero.  
-The study combines three perspectives:  
-- **Economist** — Theoretical equilibrium analysis, efficiency, and fairness.  
-- **Computational Scientist** — Payoff matrix construction, equilibrium computation (NashPy/QuantEcon), and SPNE analysis (Game Theory Explorer).  
-- **Behavioral Scientist** — oTree experiment, comparison of human vs. LLM decisions, and interpretation of discrepancies.
 
 ---
 
-## Task Summary
-- **Part 1 (Economist):** Define the game, state equilibrium concept, solve equilibria, analyze efficiency/fairness, and discuss bounded rationality.  
-- **Part 2 (Computational Scientist):** Build normal-form payoff matrices, compute equilibria in Colab, construct extensive-form game in GTE, and compare results.  
-- **Part 3 (Behavioral Scientist):** Deploy oTree version, run human session, run LLM session, and conduct comparative analysis.  
+## Description of Files and Folders
+
+### Root Directory
+- **Problem_Set_1_Updated.pdf** – Updated version of Problem Set 1, including acknowledgments and responses to feedback.  
+- **Problem_Set_2_Mechanism_Design.pdf** – Detailed mechanism design work for Problem Set 2.  
+- **Appendix_A_Response_to_Feedback.pdf** – Point-by-point responses to instructor comments.  
+- **Appendix_B_Auction_Experiment.pdf** – First-price sealed-bid auction: design, hypothesis, AI setup, results, and analysis.  
+
+### /economist/
+- Contains materials related to the economic analysis of the problem sets and auction experiments.  
+- Example contents: data analysis scripts, Excel charts, or graphs supporting conclusions.  
+
+### /computational_scientist/
+- Contains computational or algorithmic support materials.  
+- Example contents: Python code for auction simulations, oTree setup files, AI model prompts and execution scripts.  
+
+### /behavioral_scientist/
+- Contains materials related to experimental design and behavioral analysis.  
+- Example contents: participant data (anonymized), experimental interface screenshots, AI decision logs or transcripts.  
+
+### /mechanism_design/
+- Contains materials supporting mechanism design tasks.  
+- Example contents: Problem Set 2 calculations or simulations, diagrams, and reference materials.  
 
 ---
 
-## Reproduction Steps
-1. **Clone Repository:**
-   ```bash
-   git clone <your-repo-url>
-   cd ClaimGame-An-Interdisciplinary-Study
+## Notes
+- All supporting assets are organized in discipline-specific folders to facilitate review.  
+- Code files and data are provided for reproducibility and verification of results.  
+- Ensure that sensitive or personal data is anonymized before uploading.  
+
