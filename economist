@@ -1,9 +1,0 @@
-# Economist Module
-
-This folder presents the economic and game-theoretical analysis of the bargaining game.
-
-## Structure
-- **1_game_and_equilibrium.md** — Formal definition of the game and Nash equilibrium concept
-- **2_analytical_solution.md** — Analytical solution of pure-strategy equilibria
-- **3_interpretation.md** — Broader interpretation: realism, coordination, refinements, repeated play, bounded rationality
-- **references.md** (optional) — Literature cited
