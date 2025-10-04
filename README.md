@@ -1,34 +1,32 @@
 
----
+Bridging Game Theory, Mechanism Design, and Institutional Governance: A Computational Microeconomics Approach
 
-## Description of Files and Folders
+Author: Chenlei Tao
 
-### Root Directory
-- **Problem_Set_1_Updated.pdf** – Updated version of Problem Set 1, including acknowledgments and responses to feedback.  
-- **Problem_Set_2_Mechanism_Design.pdf** – Detailed mechanism design work for Problem Set 2.  
-- **Appendix_A_Response_to_Feedback.pdf** – Point-by-point responses to instructor comments.  
-- **Appendix_B_Auction_Experiment.pdf** – First-price sealed-bid auction: design, hypothesis, AI setup, results, and analysis.  
+Abstract
 
-### /economist/
-- Contains materials related to the economic analysis of the problem sets and auction experiments.  
-- Example contents: data analysis scripts, Excel charts, or graphs supporting conclusions.  
+This proposal explores the intersection of computational microeconomics, behavioral analysis, and institutional governance. We first study a two-player repeated bargaining game using analytical solutions, computational simulations (NashPy, Game Theory Explorer), and human/AI experiments (oTree, ChatGPT-5) to investigate equilibrium behavior and bounded rationality. Next, we examine first-price sealed-bid auctions, analyzing how the number of bidders affects the winner’s curse through both simulations and theory. Finally, inspired by governance challenges in a university Student Leader Board, we propose a hybrid quadratic-Borda voting mechanism to balance fairness, efficiency, and legitimacy, evaluated via computational simulations and blockchain-based implementation. The integrated framework shows how theory, experiments, and computation can guide practical solutions in economic and institutional contexts, aligning with DKU’s focus on communication, collaboration, global perspective, and purposeful engagement.
 
-### /computational_scientist/
-- Contains computational or algorithmic support materials.  
-- Example contents: Python code for auction simulations, oTree setup files, AI model prompts and execution scripts.  
+Authors and Roles
 
-### /behavioral_scientist/
-- Contains materials related to experimental design and behavioral analysis.  
-- Example contents: participant data (anonymized), experimental interface screenshots, AI decision logs or transcripts.  
+Chenlei Tao
 
-### /mechanism_design/
-- Contains materials supporting mechanism design tasks.  
-- Example contents: Problem Set 2 calculations or simulations, diagrams, and reference materials.  
+Economist: Analytical modeling of bargaining games and auction theory
 
----
+Computational Scientist: Simulations using NashPy, GTE, and Python
 
-## Notes
-- All supporting assets are organized in discipline-specific folders to facilitate review.  
-- Code files and data are provided for reproducibility and verification of results.  
-- Ensure that sensitive or personal data is anonymized before uploading.  
+Behavioral Scientist: Human/AI experiment design and analysis via oTree and ChatGPT-5
 
+Mechanism Designer: Hybrid quadratic-Borda voting mechanism for institutional governance
+
+Disclaimer
+
+This repository supports the final research proposal submitted to COMSCI/ECON 206: Computational Microeconomics, instructed by Prof. Luyao Zhang at Duke Kunshan University, Autumn 2025.
+
+Acknowledgments
+
+I sincerely thank Prof. Luyao Zhang for her guidance and feedback, and my classmates for their constructive discussions and collaboration. I also acknowledge the support of open-source tools, including NashPy, Game Theory Explorer (GTE), oTree, ChatGPT, and others, which were essential for simulations, equilibrium analysis, and AI-assisted experiments.
+
+Statement of Intellectual and Professional Growth
+
+Through Problem Sets, class discussions, collaboration, and the field trip, I developed both intellectually and professionally. Hands-on experience with NashPy, GTE, oTree, and ChatGPT strengthened my ability to translate game theory and mechanism design concepts into practical experiments and simulations. Collaboration and feedback improved my communication, teamwork, and problem-solving skills. This journey provided a systematic approach to interdisciplinary projects, combining computational proficiency, experimental design, and critical evaluation—forming a solid foundation for future research and professional growth.
