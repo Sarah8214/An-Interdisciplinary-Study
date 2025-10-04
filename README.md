@@ -40,4 +40,12 @@ Through Problem Sets, class discussions, collaboration, and the field trip, I de
 - **Embedded Media:** Poster and demo video can be found in the `Poster` folder or accessed via links embedded in Markdown files.
 
 ---
+## 📂 Table of Contents
+
+- [Reflection Week 6](./Reflection/reflection_Week6_Chenlei.pdf)
+- [Problem Set 1](./ProblemSet1/problem_set_01.pdf)
+- [Problem Set 2](./ProblemSet2/problem_set_02.pdf)
+- [Final Report](./FinalReport/final_report.pdf)
+---
+
 
